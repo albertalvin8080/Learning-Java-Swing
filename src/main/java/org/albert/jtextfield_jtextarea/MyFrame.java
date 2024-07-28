@@ -1,4 +1,4 @@
-package org.albert.jtext_jtextarea;
+package org.albert.jtextfield_jtextarea;
 
 import javax.swing.*;
 import java.awt.*;
