@@ -1,4 +1,4 @@
-package org.albert.graphics2d;
+package org.albert.graphics2d.paintcomponent;
 
 import javax.swing.*;
 import java.awt.*;
